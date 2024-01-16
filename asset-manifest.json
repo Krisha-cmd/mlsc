@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.290b2afb.css",
+    "main.js": "/static/js/main.a1f86201.js",
+    "static/js/787.29adc674.chunk.js": "/static/js/787.29adc674.chunk.js",
+    "static/media/MLSA.png": "/static/media/MLSA.2c55d01628ffe3a297ed.png",
+    "static/media/logo2.png": "/static/media/logo2.ed84785be706753f5e27.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.290b2afb.css.map": "/static/css/main.290b2afb.css.map",
+    "main.a1f86201.js.map": "/static/js/main.a1f86201.js.map",
+    "787.29adc674.chunk.js.map": "/static/js/787.29adc674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290b2afb.css",
+    "static/js/main.a1f86201.js"
+  ]
+}
